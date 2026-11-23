@@ -1,0 +1,11 @@
+{
+  "name": "arena-rush-android",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Android wrapper (Capacitor) for the Arena Rush game",
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}

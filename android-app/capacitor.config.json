@@ -1,0 +1,7 @@
+{
+  "appId": "com.arenarush.game",
+  "appName": "Arena Rush",
+  "webDir": "www",
+  "server": { "androidScheme": "http", "cleartext": true },
+  "android": { "allowMixedContent": true }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "arena-rush-tiktok",
+  "version": "2.0.0",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "tiktok-live-connector": "*",
+    "ws": "^8.0.0"
+  }
+}

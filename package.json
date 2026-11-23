@@ -1,0 +1,11 @@
+{
+  "name": "arena-rush",
+  "version": "2.1.0",
+  "private": true,
+  "scripts": { "start": "node tiktok-server/server.js" },
+  "engines": { "node": ">=22" },
+  "dependencies": {
+    "tiktok-live-connector": "*",
+    "ws": "^8.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: arena-rush
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: ADMIN_KEY
+        generateValue: true
